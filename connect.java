@@ -9,7 +9,7 @@ import java.sql.Statement;
 public class connect {
 	public static void main(String[] args)
 	{
-		//String jdbcUrl = "jdbc:sqlite:C:\\sqlite\\usersdb.db ";
+		
 		// Here is Connection Code
 		
 		String jdbcUrl = "jdbc:sqlite:newMovie.db ";
